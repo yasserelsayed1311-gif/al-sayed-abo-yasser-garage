@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://yasserelsayed1311-gif.github.io/al-sayed-abo-yasser-garage/sitemap.xml
